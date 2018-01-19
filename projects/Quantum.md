@@ -6,9 +6,7 @@ title: Quantum Computing
 # All dates must be YYYY-MM-DD format!
 date: 2018-1-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - powerpoint
   - GitHub
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
