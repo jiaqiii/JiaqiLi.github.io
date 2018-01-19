@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/Quantum-Computing-05.png
 title: Quantum Computing
-permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2018-1-15
 labels:
