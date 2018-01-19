@@ -4,7 +4,7 @@ type: project
 image: images/Youth.png
 title: Suicide Intervention
 # All dates must be YYYY-MM-DD format!
-date: 2018-1-15
+date: 2018-01-15
 
 summary: A 2-day training on suicide intervention.
 ---
