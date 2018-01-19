@@ -4,7 +4,7 @@ type: project
 image: images/interpreter-logo.png
 title: VIP Interpreter
 # All dates must be YYYY-MM-DD format!
-date: 2018-1-15
+date: 2018-01-15
 
 summary: Interpretate for Foreign
 ---
