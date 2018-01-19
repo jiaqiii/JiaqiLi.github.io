@@ -6,19 +6,18 @@ title: VIP Interpreter
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-15
 
-summary: Interpreter for Foreign
+summary: Interpreter for Foreign representative from the U.S in a Product Introduction Presentation for the VIP
+         members at a beauty resort in China.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/interpreter-logo.png">
 
-This Suicide Intervention certification courses that I participated in a couple years ago was a 2-day training 
-on the subject. During the training, we learned suicidal signs to be detected, according actions that could be 
-applied in steps, and post-checkups techniques that could be applied after an initial resolving of an suicidal 
-attempt.
+In this event, I interpretated the whole presentation from english to Chinese simultaneously. I also helped out in the Q&A session
+after the presentation.
 
-During the training, I learned to apply knowledge from psychology classes I took into interventing a suicidal 
-attempt. My study in abnormal psychology helped me to better understand a suicidal behavior, and thus allow me
-to approach a victim apporpriately.
+Since the translation is simultaneous, it practiced my prompt responding to translating sentences, and my flexibility on handling 
+unpredicted situations. I also learned a lot information on new beauty products on the market.
 
-I completed my Associate Degree in Psychology a few years back. This course was one of the remarkable courses 
-that I took, it taught me to approaching people who needs help and support, which could be everyone and anyone.
+This event happened back when I was in high school, it challenged my comfortability since I had to be in the spotlight and also had
+to repond very quickly to every sentences in the presentation. I learned a lot from this experience, and I walked away with a great 
+paycheck.
