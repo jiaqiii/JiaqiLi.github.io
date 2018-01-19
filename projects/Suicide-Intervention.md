@@ -21,4 +21,4 @@ attempt. My study in abnormal psychology helped me to better understand a suicid
 to approach a victim apporpriately.
 
 I completed my Associate Degree in Psychology a few years back. This course was one of the remarkable courses 
-that I took, it taught me the way to approach people who need help and support, which could be everyone and anyone.
+that I took, it taught me to approaching people who needs help and support, which could be everyone and anyone.
