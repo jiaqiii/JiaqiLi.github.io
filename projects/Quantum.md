@@ -1,5 +1,17 @@
 ---
-
+layout: project
+type: project
+image: images/Quantum-Computing-05.png
+title: Quantum Computing
+permalink: projects/vacay
+# All dates must be YYYY-MM-DD format!
+date: 2018-1-15
+labels:
+  - Javascript
+  - Meteor
+  - MongoDB
+  - GitHub
+summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Quantum-Computing-05.png">
