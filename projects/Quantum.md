@@ -16,10 +16,11 @@ summary: A responsive web application for travel planning that my team developed
 
 <img class="ui medium right floated rounded image" src="../images/Quantum-Computing-05.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Quantum computing is a project I reasearched and did presentation on. The research focused on how quantum
+computer is a new threat to modern cryptography, and methods to work around the threat.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The presentation elaborate the topic in different sections such as "what is the difference between quantum and classic 
+computer?", "How does quantum cryptography work?", etc.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Through out the process of researching on this sunbject, I gained much better understanding on the subject, and I am 
+able to explain subject matters to my fellows.
