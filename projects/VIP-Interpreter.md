@@ -6,7 +6,7 @@ title: VIP Interpreter
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-15
 
-summary: Interpretate for Foreign
+summary: Interpreter for Foreign
 ---
 
 <img class="ui medium right floated rounded image" src="../images/interpreter-logo.png">
