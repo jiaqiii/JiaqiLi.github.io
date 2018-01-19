@@ -4,7 +4,7 @@ type: project
 image: images/Quantum-Computing-05.png
 title: Quantum Computing
 # All dates must be YYYY-MM-DD format!
-date: 2018-1-15
+date: 2018-01-15
 labels:
   - powerpoint
   - GitHub
