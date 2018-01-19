@@ -8,7 +8,7 @@ date: 2018-1-15
 labels:
   - powerpoint
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A presentation on Quantum computer
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Quantum-Computing-05.png">
