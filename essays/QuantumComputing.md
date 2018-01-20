@@ -34,6 +34,7 @@ One argument on quantum computer is that it might not substitute home computer j
 
 
 Reference:
+
 https://www.youtube.com/watch?v=uiiaAJ3c6dM
 https://www.youtube.com/watch?v=tG9ZiMLanhE&t=24s
 https://www.youtube.com/watch?v=g_IaVepNDT4&t=302s
