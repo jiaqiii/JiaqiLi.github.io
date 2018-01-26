@@ -17,14 +17,14 @@ on everything. It's easier to code in JavaScript since there is less rule in the
 languages. Comparing C and Javascrit, I enjoy coding in C and also learned a lot from it, but I 
 had so much fun with Javascript.
 
-<img class="ui medium left floated image" src="../images/skeptical.jpg">
+<img class="ui medium right floated image" src="../images/skeptical.jpg">
 
 However, while Javascript is providing a great convenience to users as it is easy to get on-hand
 with, it underlines the debate of whether or not this convenience would allow laziness and defect
 users with their ability to program in languages that demand precise declaration on every variable, 
 such as C.
 
-<img class="ui medium right floated rounded image" src="../images/strong.jpg">
+<img class="ui medium left floated rounded image" src="../images/strong.jpg">
 
 The athletic software engineering style that we did in class is great. I have only done it once so
 far, so I would need a few more trials in order to give it an objective evaluation. So far, the WOD
