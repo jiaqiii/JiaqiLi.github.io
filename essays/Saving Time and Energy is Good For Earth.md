@@ -27,14 +27,14 @@ working progress, and therefore bad for a development of any project.
 #Volume is not precision --Raymond
 
 [skip or delete column from excel using poi](https://stackoverflow.com/questions/48458105/skip-or-delete-column-from-excel-using-poi)
-This example demonstrates a question that is long and unclear. There is far more information provided then what is needed.
+-->This example demonstrates a question that is long and unclear. There is far more information provided then what is needed.
 To make a question clear and succinct in order to respect other's time and energy, it is important to provide a minimal 
 test case that precisely demonstrate parts that are relavent to the problem, and leave out the rest. 
 
 #A good demonstration
 
 [MongoDB update latest subdocument](https://stackoverflow.com/questions/48456876/mongodb-update-latest-subdocument)
-This example illustrate a well appreciated question, because it provides minimal test cases that are easy to read. It is clear and 
+-->This example illustrate a well appreciated question, because it provides minimal test cases that are easy to read. It is clear and 
 precise when both the actual result and the desired result of a test case is demonstrated. Showing one's tested result also
 demonstrates one's effort, that one had attempted to solve a problem.
 
