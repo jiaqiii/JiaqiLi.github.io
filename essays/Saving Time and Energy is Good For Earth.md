@@ -15,7 +15,7 @@ Nowadays, with a better education system, different academic fields are growing.
 invoveld in different fields means more collaborating oppotunities, which leads to the importance of succinct 
 communication. Most of the factors that contribute to a qualilty communication points to the efficiency in
 time and energy of a communication. In another word, did all parties do their reseach before bringing up problems
-to dicuss, and if they elaborated the problem in a clear and precise words.                    
+to discuss, and if they elaborated the problem in clear and precise words.                    
 
 
 #STFW = Search The Fucking Web
