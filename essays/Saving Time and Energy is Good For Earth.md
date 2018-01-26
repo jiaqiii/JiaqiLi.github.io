@@ -9,7 +9,7 @@ labels:
   - StackOverflow
 ---
 
-#Why "Good Question" need to be a topic
+#Why "Good Question" needs to be a topic
 
 Nowadays, with a better education system, different academic fields are growing. More people are 
 invoveld in different fields means more collaborating oppotunities, which leads to the importance of succinct 
