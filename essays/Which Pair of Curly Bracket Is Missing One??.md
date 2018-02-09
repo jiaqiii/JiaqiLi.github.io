@@ -18,7 +18,7 @@ especially if your code is anything longer than one page, try look for the missi
 <img class="ui tiny right circular floated image" src="../images/ghost.png">
 horrible style/format, that thing come back and haunt you like a nightmare. Why? Because going through code line 
 by line to find something is just so much harder and slower than replying on the coding pattern to find a certain 
-thing. The tidiness of coding is the key to make life easier.<img class="ui tiny left circular floated image" src="../images/beachlife.jpg">
+thing. The tidiness of coding is the key to make life easier.<img class="ui tiny right circular floated image" src="../images/beachlife.jpg">
 
 <img class="ui tiny left circular floated image" src="../images/foldedClothes.jpg">
 Many IDEs or online coding environments provides formatting clean up function, such as Eclipse provides function 
