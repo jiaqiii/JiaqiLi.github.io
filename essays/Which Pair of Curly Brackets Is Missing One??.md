@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Which Pair of Curly Bracket Is Missing One??
+title: Which Pair of Curly Brackets Is Missing One??
 date: 2018-02-08
 labels:
   - Software Engineering
