@@ -12,7 +12,7 @@ labels:
   - React
   - MongoDB
 ---
-<img class="ui small left circular floated image" src="../images/design-patterns.jpg">
+<img class="ui medium left circular floated image" src="../images/design-patterns.jpg">
 
 Ever encountered a time when you try to explain how your project works and it always take so long to describe the 
 structure of your code before you can get to the details? What if there is a name for every different structure and 
@@ -24,7 +24,7 @@ interface page to access data from the data file, you can simply explain as you 
 much easier does this make your life! So go look up some design pattern terms and save yourself some time in a discussion 
 and some face in an interview!
 
-<img class="ui small left circular floated image" src="../images/mvc.png">
+<img class="ui medium left floated image" src="../images/mvc.png">
 I did this one project with my team, we made an app that allows people to sign up and find matching pals to practice the 
 language they are learning. with the understanding of what design patterns are now, it’s interesting to point out the 
 patterns that we used in our project that we didn’t know then. In our project, we used MongoDB to store datas and we 
