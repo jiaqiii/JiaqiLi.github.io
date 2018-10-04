@@ -78,7 +78,17 @@
       ]
     }
   ],
-  
+   "work": [
+    {
+      "company": "University of Hawaii at Manoa Informoation Technology Services",
+      "position": "Software Developer",
+      "startDate": "2018-05",
+      "endDate": "Present",
+      "summary": "Currently working with a team of developers to creating a web based software for the University of Hawaii",
+      "highlights": [
+      ]
+    }
+],
   "volunteer": [
     {
       "organization": "Sunyeah Lighting Co., LTD, Guangzhou, CHINA",
