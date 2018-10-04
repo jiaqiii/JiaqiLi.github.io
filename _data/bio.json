@@ -39,11 +39,6 @@
       "keywords": [
       ]
     },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
@@ -54,6 +49,8 @@
         "C++",
         "Java",
         "Javascript",
+        "boostrap",
+        "HTML/CSS",
         "Assembly",
       ]
     },
@@ -62,7 +59,10 @@
       "level": "",
       "keywords": [
         "Kali Linux",
+        "Windows",
         "Git/GitHub",
+        "SSH shell",
+        "VI",
       ]
     }
   ],
@@ -98,7 +98,7 @@
  
   "references": [
     {
-      "name": "Available upon request",
+      "name": "  Available upon request",
       "reference": ""
     }
   ]
