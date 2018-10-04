@@ -90,6 +90,13 @@
     }
 ],
   "volunteer": [
+     {
+      "organization": "AT&T Hackathon",
+      "position": "Participant",
+      "startDate": "2018-03-05",
+      "endDate": "2015-03-08",
+      "summary": "Worked with a team to develop an AR game for people of all ages to enjoy.",
+    },
     {
       "organization": "Sunyeah Lighting Co., LTD, Guangzhou, CHINA",
       "position": "Assistant to the Director",
