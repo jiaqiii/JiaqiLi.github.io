@@ -61,7 +61,7 @@
         "Kali Linux",
         "Windows",
         "Git/GitHub",
-        "SSH shell",
+        "Unix shell",
         "VI",
       ]
     }
@@ -94,7 +94,7 @@
       "organization": "AT&T Hackathon",
       "position": "Participant",
       "startDate": "2018-03-05",
-      "endDate": "2015-03-08",
+      "endDate": "2018-03-08",
       "summary": "Worked with a team to develop an AR game for people of all ages to enjoy.",
     },
     {
