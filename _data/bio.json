@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": " ",
         "url": "http://linkedin.com/in/jiaqi-li-0710058b/"
-      },
+      }
 
     ]
   },
@@ -38,7 +38,7 @@
       "name": "Cyber Security",
       "keywords": [
       ]
-    },
+    }
   ],
   "skills": [
     {
@@ -51,7 +51,7 @@
         "Javascript",
         "boostrap",
         "HTML/CSS",
-        "Assembly",
+        "Assembly"
       ]
     },
     {
@@ -62,7 +62,7 @@
         "Windows",
         "Git/GitHub",
         "Unix shell",
-        "VI",
+        "VI"
       ]
     }
   ],
@@ -95,21 +95,21 @@
       "position": "Participant",
       "startDate": "2018-03-05",
       "endDate": "2018-03-08",
-      "summary": "Worked with a team to develop an AR game for people of all ages to enjoy.",
+      "summary": "Worked with a team to develop an AR game for people of all ages to enjoy."
     },
     {
       "organization": "Sunyeah Lighting Co., LTD, Guangzhou, CHINA",
       "position": "Assistant to the Director",
       "startDate": "2015-06-05",
       "endDate": "2015-08-05",
-      "summary": "Leverage knowledge of the Chinese and English language to become a point of contact for Chinese speaking customers.",
+      "summary": "Leverage knowledge of the Chinese and English language to become a point of contact for Chinese speaking customers."
     },
     {
       "organization": "Shang Hai Expo, Shang Hai, CHINA",
       "position": "interpreter",
       "startDate": "2010-08-02",
       "endDate": "2010-08-05",
-      "summary": "Volunteered 36 hours to provide interpretation sevice in English and Chinese for expo investors.",
+      "summary": "Volunteered 36 hours to provide interpretation sevice in English and Chinese for expo investors."
     }
   ],
  
